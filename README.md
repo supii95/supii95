@@ -5,8 +5,9 @@
 
 
 
+## References
 
-markdown ref -https://daringfireball.net/projects/markdown/ 
+*Markdown*  - https://daringfireball.net/projects/markdown/ 
 
 ## Learning Git
 
