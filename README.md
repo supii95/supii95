@@ -7,7 +7,9 @@
 
 ## References
 
-*Markdown*  - https://daringfireball.net/projects/markdown/ 
+- *Markdown*  - https://daringfireball.net/projects/markdown/ 
+
+- [*Rare Commands*](rare-commands.md)
 
 ## Learning Git
 
@@ -33,17 +35,3 @@ git remote add origin git@github.com:supii95/first-repo.git
 git branch -M main
 git push -u origin main
 ```
-## bash access scripts
-```
-code ~/.bashrc
-```
-## bash commands
-```
-rm filename
-rm -r foledername
-rm -rf folfername
-```
-- rm stands for remove.
-- r stands for recursive
-- rf stands for recursive force.
-
