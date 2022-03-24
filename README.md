@@ -19,16 +19,8 @@
 ## initialise git repo
 git init
 
-# add to tracking area
- git add .
-# or your can add single file by 
-git add filename
-
-# commit your code 
-git commit -m "my message"
-
-#push into git from local folder
-git push -u origin
+# commmit and push to github
+gacp my commit message here...
 ```
 
 ## adding remote

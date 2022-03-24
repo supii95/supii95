@@ -27,3 +27,19 @@ ls
 # print all files INCLUDING HIDDEN FILES
 ls -a
 ```
+
+## git commands
+
+```
+
+# add to tracking area
+ git add .
+# or your can add single file by 
+git add filename
+
+# commit your code 
+git commit -m "my message"
+
+#push into git from local folder
+git push -u origin
+```
