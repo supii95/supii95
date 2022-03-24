@@ -33,3 +33,7 @@ git remote add origin git@github.com:supii95/first-repo.git
 git branch -M main
 git push -u origin main
 ```
+## bash access scripts
+```
+code ~/.bashrc
+```
