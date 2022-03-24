@@ -22,4 +22,7 @@ git add filename
 
 # commit your code 
 git commit -m "my message"
+
+#push into git from local folder
+git push -u origin
 ````
