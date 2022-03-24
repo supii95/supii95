@@ -11,6 +11,8 @@
 
 - [*Rare Commands*](rare-commands.md)
 
+- [*Rare Commands (Sahil)*](rare-commands-sahil.md)
+
 ## Learning Git
 
 ``` 
