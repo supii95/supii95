@@ -25,4 +25,11 @@ git commit -m "my message"
 
 #push into git from local folder
 git push -u origin
-````
+```
+
+## adding remote
+```
+git remote add origin git@github.com:supii95/first-repo.git
+git branch -M main
+git push -u origin main
+```
